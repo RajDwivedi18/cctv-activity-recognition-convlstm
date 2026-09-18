@@ -1,1 +1,8 @@
-
+tensorflow
+opencv-contrib-python
+numpy
+scikit-learn
+gradio
+moviepy
+pydot
+matplotlib
