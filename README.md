@@ -46,7 +46,7 @@ classifiers can't capture how actions evolve over time across frames.
 Upload CCTV-style footage → the app returns an annotated video with live
 predictions plus a timestamped alert log for any non-"Normal" activity detected.
 
-![Prediction Output](demo/prediction_violence.png)
+![Prediction Output](demo/prediction_violence_1.png,prediction_violence_2.png)
 ![Alert Summary](demo/alert_summary.png)
 
 ## Tech Stack
